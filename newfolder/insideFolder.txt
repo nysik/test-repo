@@ -1,1 +1,1 @@
-HELLO, people!
+HELLO, world!
